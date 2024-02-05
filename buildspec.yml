@@ -1,8 +1,7 @@
-versio: 0.1
-
+version: 0.1
 phases:
   install:
-    runtime-version:
+    runtime-versions:
       python: 3.8
     commands:
       - echo "Installing Dependencies..."
