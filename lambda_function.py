@@ -13,6 +13,7 @@ def lambda_handler(event, context):
         'Access-Control-Allow-Headers': 'Content-Type,X-Amz-Date,Authorization,X-Api-Key',
         'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Methods': '*',
+        'Cache-Control': 'public, max-age=14400',
         'Content-Type': 'application/json'
 
 
