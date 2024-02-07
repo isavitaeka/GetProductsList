@@ -10,7 +10,12 @@ def lambda_handler(event, context):
         "isBase64Encoded": "false",
         'statusCode': 200,
         "headers": {
-        "Access-Control-Allow-Origin": "*"
+        'Access-Control-Allow-Headers': 'Content-Type',
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'OPTIONS,PUT',
+        'Content-Type': 'application/json'
+
+
         },
  #       'body': json.dumps('Again This is the next change I am going GetProductList Lambda....!')
         'body' : json.dumps(data)
