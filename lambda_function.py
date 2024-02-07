@@ -10,9 +10,9 @@ def lambda_handler(event, context):
         "isBase64Encoded": "false",
         'statusCode': 200,
         "headers": {
-        'Access-Control-Allow-Headers': 'Content-Type',
+        'Access-Control-Allow-Headers': 'Content-Type,X-Amz-Date,Authorization,X-Api-Key',
         'Access-Control-Allow-Origin': '*',
-        'Access-Control-Allow-Methods': 'POST,GETOPTIONS,PUT',
+        'Access-Control-Allow-Methods': '*',
         'Content-Type': 'application/json'
 
 
