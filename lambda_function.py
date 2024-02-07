@@ -1,8 +1,8 @@
 import json
 
-with open('products.json', 'r') as f:
+with open('products.txt', 'r') as f:
     data = json.load(f)
-#print(data)
+print(data)
 
 def lambda_handler(event, context):
     # TODO implement
