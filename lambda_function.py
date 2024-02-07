@@ -12,7 +12,7 @@ def lambda_handler(event, context):
         "headers": {
         'Access-Control-Allow-Headers': 'Content-Type',
         'Access-Control-Allow-Origin': '*',
-        'Access-Control-Allow-Methods': 'OPTIONS,PUT',
+        'Access-Control-Allow-Methods': 'POST,GETOPTIONS,PUT',
         'Content-Type': 'application/json'
 
 
