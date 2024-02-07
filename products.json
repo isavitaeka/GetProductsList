@@ -1,0 +1,27 @@
+{
+    
+        "Products": [   
+          {
+    
+            "id": 1,
+            "name": "Product A",   
+            "deviceType": "smartphone",
+            "brand": "Samsung",
+            "model": "Galaxy S21",
+            "screenSize": 6.2
+          },
+    
+          {
+            "id": 2,
+            "name": "Product B",   
+            "deviceType": "smartphone",
+            "brand": "Samsung",
+            "model": "Galaxy S21",
+            "screenSize": 6.2
+          }
+    
+        ]
+}
+    
+    
+    
