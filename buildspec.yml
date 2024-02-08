@@ -12,7 +12,7 @@ phases:
       - zip -r deployment_package.zip  .
   post_build:
     commands:
-      - echo "Updating lambda Function..."
+      - echo "Updating   lambda Function..."
       - aws lambda update-function-code --function-name pyGetProducts02 --zip-file fileb://deployment_package.zip
       - echo "DONE!!"
       
