@@ -5,6 +5,7 @@ with open('products.txt', 'r') as f:
 print(data)
 
 def lambda_handler(event, context):
+    print("I am being called")
     # TODO implement
     return {
         "isBase64Encoded": "false",
