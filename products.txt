@@ -1,4 +1,5 @@
-{    
+{
+    
         "Products": [   
           {
     
@@ -15,8 +16,8 @@
             "name": "Product B",   
             "deviceType": "smartphone",
             "brand": "Samsung",
-            "model": "Galaxy S21",
-            "screenSize": 6.2
+            "model": "Galaxy S25",
+            "screenSize": 8.2
           }
     
         ]
