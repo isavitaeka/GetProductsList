@@ -14,10 +14,19 @@
           {
             "id": 2,
             "name": "Product B",   
-            "deviceType": "smartphone",
+            "deviceType": "Mobile Phone",
             "brand": "Samsung",
             "model": "Galaxy S25",
             "screenSize": 8.2
+          },
+
+          {
+            "id": 3,
+            "name": "Product c",   
+            "deviceType": "SIM Only",
+            "brand": "Vodafone",
+            "model": "NA",
+            "screenSize": "NA"
           }
     
         ]
