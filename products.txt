@@ -10,8 +10,8 @@
             "model": "Galaxy S21",
             "screenSize": 6.2,
             "osType": "",
-            "image": "productA.jpg"
-            "price": "£890.00"
+            "image": "productA.jpg",
+            "price": "£670.00"
           },
     
           {
@@ -22,8 +22,8 @@
             "model": "Galaxy S25",
             "screenSize": 8.2,
             "osType": "",
-            "image": "productB.jpg"
-            "price": "£890.00"
+            "image": "productB.jpg",
+            "price": "£99.00"
           },
 
           {
@@ -34,7 +34,7 @@
             "model": "NA",
             "screenSize": "NA",
             "osType": "",
-            "image": "productC.jpg"
+            "image": "productC.jpg",
             "price": "£890.00"
 
           },
@@ -46,8 +46,8 @@
             "model": "NA",
             "screenSize": "NA",
             "osType": "",
-            "image": "productD.jpg"
-            "price": "£890.00"
+            "image": "productD.jpg",
+            "price": "£670.00"
 
           }
     
