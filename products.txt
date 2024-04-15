@@ -40,7 +40,81 @@
           },
                     {
             "id": 4,
-            "name": "Product C",   
+            "name": "Product D",   
+            "deviceType": "SIM Only",
+            "brand": "Vodafone",
+            "model": "NA",
+            "screenSize": "NA",
+            "osType": "",
+            "image": "productD.jpg",
+            "price": "£670.00"
+
+          },
+
+                              {
+            "id": 5,
+            "name": "Product E",   
+            "deviceType": "SIM Only",
+            "brand": "Vodafone",
+            "model": "NA",
+            "screenSize": "NA",
+            "osType": "",
+            "image": "productD.jpg",
+            "price": "£670.00"
+
+          },
+                    {
+            "id": 6,
+            "name": "Product F",   
+            "deviceType": "SIM Only",
+            "brand": "Vodafone",
+            "model": "NA",
+            "screenSize": "NA",
+            "osType": "",
+            "image": "productD.jpg",
+            "price": "£670.00"
+
+          },
+                              {
+            "id": 7,
+            "name": "Product G",   
+            "deviceType": "SIM Only",
+            "brand": "Vodafone",
+            "model": "NA",
+            "screenSize": "NA",
+            "osType": "",
+            "image": "productD.jpg",
+            "price": "£670.00"
+
+          },
+
+                              {
+            "id": 8,
+            "name": "Product H",   
+            "deviceType": "SIM Only",
+            "brand": "Vodafone",
+            "model": "NA",
+            "screenSize": "NA",
+            "osType": "",
+            "image": "productD.jpg",
+            "price": "£670.00"
+
+          },
+                              {
+            "id": 9,
+            "name": "Product I",   
+            "deviceType": "SIM Only",
+            "brand": "Vodafone",
+            "model": "NA",
+            "screenSize": "NA",
+            "osType": "",
+            "image": "productD.jpg",
+            "price": "£670.00"
+
+          },
+                              {
+            "id": 10,
+            "name": "Product J",   
             "deviceType": "SIM Only",
             "brand": "Vodafone",
             "model": "NA",
@@ -50,6 +124,7 @@
             "price": "£670.00"
 
           }
+
     
         ]
 }
